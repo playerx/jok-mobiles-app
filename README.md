@@ -1,2 +1,4 @@
-online-pool
+Online Pool
 ===========
+
+for mobile devices
