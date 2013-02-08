@@ -2,3 +2,4 @@
 {"contributors":[],"silentsave":false,"ts":1360314214179,"patch":[[{"diffs":[[0,"on   = \""],[-1,"2.2"],[1,"0.1"],[0,".0\">\n   "]],"start1":192,"start2":192,"length1":19,"length2":19}]],"length":3130,"saved":false}
 {"ts":1360314341787,"patch":[[{"diffs":[[0,"rc=\""],[-1,"icon.pn"],[1,"logo.jp"],[0,"g\" /"]],"start1":731,"start2":731,"length1":15,"length2":15}]],"length":3130,"saved":false}
 {"ts":1360314424763,"patch":[[{"diffs":[[0,"ue=\""],[-1,"default"],[1,"landscape"],[0,"\" />"]],"start1":585,"start2":585,"length1":15,"length2":17},{"diffs":[[0,"ue=\""],[-1,"fals"],[1,"tru"],[0,"e\" /"]],"start1":707,"start2":707,"length1":12,"length2":11}]],"length":3131,"saved":false}
+{"ts":1360314568363,"patch":[[{"diffs":[[0,"c=\"logo."],[-1,"j"],[0,"p"],[1,"n"],[0,"g\" />\n  "]],"start1":733,"start2":733,"length1":18,"length2":18}]],"length":3131,"saved":false}
