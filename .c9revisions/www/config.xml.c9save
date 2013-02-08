@@ -10,3 +10,6 @@
 {"ts":1360315112593,"patch":[[{"diffs":[[0,"/author>"],[1,"\n    \n    \n    <access origin=\"*\" />"],[0,"\n\n    <f"]],"start1":416,"start2":416,"length1":16,"length2":52}]],"length":3644,"saved":false}
 {"ts":1360315280740,"patch":[[{"diffs":[[0,"on src=\""],[-1,"pool"],[1,"icon"],[0,".png\" />"]],"start1":1241,"start2":1241,"length1":20,"length2":20}]],"length":3644,"saved":false}
 {"ts":1360315548768,"patch":[[{"diffs":[[0,"con.png\" />\n    "],[1,"<!--"],[0,"<icon src=\"res/i"]],"start1":1250,"start2":1250,"length1":32,"length2":36},{"diffs":[[0,"ckground\" />"],[1,"-->"],[0,"\n\n    <gap:s"]],"start1":2511,"start2":2511,"length1":24,"length2":27}]],"length":3651,"saved":false}
+{"ts":1360315594168,"patch":[[{"diffs":[[0,"c=\"icon."],[1,"j"],[0,"p"],[-1,"n"],[0,"g\" />\n  "]],"start1":1246,"start2":1246,"length1":18,"length2":18}]],"length":3651,"saved":false}
+{"ts":1360315599476,"patch":[[{"diffs":[[0,"on src=\""],[-1,"icon"],[1,"pool"],[0,".jpg\" />"]],"start1":1241,"start2":1241,"length1":20,"length2":20}]],"length":3651,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1360315733168,"patch":[[{"diffs":[[0,"on src=\""],[-1,"pool"],[1,"billiard"],[0,".jpg\" />"]],"start1":1241,"start2":1241,"length1":20,"length2":24}]],"length":3655,"saved":false}
