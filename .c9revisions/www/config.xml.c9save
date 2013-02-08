@@ -9,3 +9,4 @@
 {"ts":1360315019970,"patch":[[{"diffs":[[0,"rc=\""],[-1,"logo"],[1,"pool"],[0,".png"]],"start1":1209,"start2":1209,"length1":12,"length2":12}]],"length":3608,"saved":false}
 {"ts":1360315112593,"patch":[[{"diffs":[[0,"/author>"],[1,"\n    \n    \n    <access origin=\"*\" />"],[0,"\n\n    <f"]],"start1":416,"start2":416,"length1":16,"length2":52}]],"length":3644,"saved":false}
 {"ts":1360315280740,"patch":[[{"diffs":[[0,"on src=\""],[-1,"pool"],[1,"icon"],[0,".png\" />"]],"start1":1241,"start2":1241,"length1":20,"length2":20}]],"length":3644,"saved":false}
+{"ts":1360315548768,"patch":[[{"diffs":[[0,"con.png\" />\n    "],[1,"<!--"],[0,"<icon src=\"res/i"]],"start1":1250,"start2":1250,"length1":32,"length2":36},{"diffs":[[0,"ckground\" />"],[1,"-->"],[0,"\n\n    <gap:s"]],"start1":2511,"start2":2511,"length1":24,"length2":27}]],"length":3651,"saved":false}
