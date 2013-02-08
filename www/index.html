@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script type="text/javascript" src="cordova-2.3.0.js"></script>
+        <script>
+            function onLoad() {
+                document.addEventListener('deviceready', onDeviceReady, false);
+            }
+            function onDeviceReady() {
+              // do Something!
+              // example: display a Cordova Alert
+              // see docs.cordova.io for full details
+              navigator.notification.alert(
+                'Cordova is ready!',       // message
+                function() { document.location.assign('http://jok.ge/lobby/billiard?single=1'); },  // callback
+                'Congratulations',            // title
+                'Done'                      // buttonName
+               );
+            }
+        </script>
+    </head>
+    <body onload=”onLoad();”>
+    </body>
+</html>
