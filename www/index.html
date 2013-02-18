@@ -9,12 +9,18 @@
               // do Something!
               // example: display a Cordova Alert
               // see docs.cordova.io for full details
-              navigator.notification.alert(
-                'Cordova is ready!',       // message
-                function() { document.location.assign('http://jok.ge/lobby/billiard?single=1'); },  // callback
-                'Congratulations',            // title
-                'Awesome'                      // buttonName
-               );
+              
+              document.location = 'http://jok.ge/lobby/billiard?single=1';
+              
+//              document.location.assign('http://jok.ge/lobby/billiard?single=1');
+              
+//              
+//              navigator.notification.alert(
+//                'Cordova is ready!',       // message
+//                function() { document.location.assign('http://jok.ge/lobby/billiard?single=1'); },  // callback
+//                'Congratulations',            // title
+//                'Awesome'                      // buttonName
+//               );
             }
         </script>
     </head>
