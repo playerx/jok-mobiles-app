@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.jok.portal"
         version   = "0.1.0">
-    <name>Jok Pool</name>
+    <name>Jok.ge</name>
 
     <description>
-        Online Pool - We are looking for best billiard players!
+        Online Fun Community - It's jok time :)
     </description>
 
     <author href="http://jok.ge" email="contact@jok.ge">
