@@ -1,4 +1,4 @@
-Online Pool
-===========
+Mobile App
+==========
 
 for mobile devices
