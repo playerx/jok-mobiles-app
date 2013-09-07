@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.jok.portal"
+        id        = "com.jok.game.pool"
         version   = "0.1.0">
-    <name>Jok.ge</name>
+    <name>Jok Pool</name>
 
     <description>
         Online Fun Community - It's jok time :)
     </description>
 
-    <author href="http://jok.ge" email="contact@jok.ge">
+    <author href="http://jok.io" email="contact@jok.io">
         Jok Team
     </author>
     
@@ -27,7 +27,7 @@
     <feature name="http://api.phonegap.com/1.0/notification"/>
     
     
-    <preference name="phonegap-version" value="2.2.0" />
+    <preference name="phonegap-version" value="3.0.0" />
     <preference name="orientation"      value="landscape" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="true" />
